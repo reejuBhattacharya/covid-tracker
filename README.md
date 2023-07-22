@@ -1,4 +1,4 @@
-#COVID-19 Tracker
+# COVID-19 Tracker
 
 ## This is a application which tracks Covid-19 cases Worldwide and by Countries.
 
